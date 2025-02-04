@@ -12,5 +12,6 @@ This project extracts financial data (Company Name, Stock Symbol, Revenue, Net I
 # Example : 
 Tesla's earnings this quarter blew all estimates.
 They reported a $4.5 billion profit against a revenue of $30 billion.
-Their earnings per share were 2.3.
+Their earnings per share were 2.3
+
 <img width="697" alt="Screenshot 2025-02-04 at 11 46 57 PM" src="https://github.com/user-attachments/assets/7facf427-891c-49c1-9b21-47523eb209a6" />
